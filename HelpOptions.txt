@@ -1,0 +1,6 @@
+This game is modelled after Windows 98. Navigate the UI as you would on a computer! The start menu, desktop icons, title bars (Minimise, etc), clock and taskbar are all functional!
+To change difficulty, mute sound, or change the background, open the Settings program from the desktop or start menu.
+There are two difficulties, easy and hard. 
+Easy is suited to anyone with a passing knowledge of computers and their history. If you can answer "What company makes the MacBook?", you should do fine!
+Hard is more in depth; you'll need to know more about what actually goes on in a computer. If you can answer "Which programming language has the file extension .asm?", you'll be fine!
+Further help is available in the game itself, and  the help program is always available if you need it. Thanks for playing!

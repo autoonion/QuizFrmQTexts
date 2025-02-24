@@ -1,0 +1,3 @@
+The quiz has two levels, easy and hard. Easy is suited to people with a passing knowledge of computers; hard is more in depth.
+There are four types of questions - Multiple Choice, text (you enter the answer), combo questions and button questions.
+More detailed help is available in the game itself! Click the desktop icon :)
