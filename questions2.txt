@@ -1,0 +1,12 @@
+What file type is '.s'?,button,Assembler,Synergy,Solution,Image,Assembler,0
+Which of these languages does Apple use most?,multiple,Objective-C,C++,Django,Rust,Objective-C,1
+What standard has largely replaced the BIOS on a computer?,button,UEFI,EFI,GUID,HDD,UEFI,2
+Who developed Linux?,text,placeholder,placeholder,placeholder,placeholder,Linux Torvalds,3
+What processor architecture is used in smartphones and modern Windows laptops?,combo,x86,x64,i386,ARM,ARM,4
+What does RISC stand for in computing?,text,placeholder,placeholder,placeholder,placeholder,Reduced Instruction Set Computer,5
+What is Windows 11's minimum RAM requirement? (in GB - just enter the number),text,placeholder,placeholder,placeholder,placeholder,4,6
+What brand makes Ryzen processors?,multiple,AMD,Qualcomm,Intel,IBM,AMD,7
+What is Sony's laptop brand?,text,placeholder,placeholder,placeholder,placeholder,Vaio,8
+How many bytes in a gigabyte?,button,about 1 million,about 10 million,about 1000, about 1 billion,about 1 billion,9
+What is the most low-level programming language,combo,Assembly,C,Machine,C++,Machine,10
+What number corresponds to 1010 in binary?,text,placeholder,placeholder,placeholder,placeholder,10 
